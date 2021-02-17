@@ -37,9 +37,11 @@ While we can't prevent the use of this code in products that are closed source o
 # Future
 - camera for timelapse
 - separate by months
+- show 'last 50 measures' / 'last 30 days'
 - use of charts
 - use of Bootstrap/Dashboard
 - separate .php pages/codes
+- add raspberry system ressources dashboard
 
 # favico
 https://gauger.io/fonticon/ to create favicon.ico with FontAwesome
