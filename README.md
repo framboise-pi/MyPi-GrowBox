@@ -3,6 +3,9 @@
 ## How
 Based on sensors, the main program witten in python, will write/append in a file all sensors datas with date and time.
 index.php will read the file and explodes the values to fill a table with dates and datas.
+No automation involved and won't be added.
+<i>(For watering, there are nice products existing that dont need power to water plants.)</i>
+I'm not working with hydroponic systems.
 
 ## Comment
 En utilisant les données de différents capteurs, pour renseigner un fichier de données avec horodatage.
@@ -42,6 +45,7 @@ While we can't prevent the use of this code in products that are closed source o
 - use of Bootstrap/Dashboard
 - separate .php pages/codes
 - add raspberry system ressources dashboard
+- button or movement detection, to mark watering
 
 # favico
 https://gauger.io/fonticon/ to create favicon.ico with FontAwesome
