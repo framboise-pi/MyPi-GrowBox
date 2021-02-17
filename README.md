@@ -34,3 +34,6 @@ Enregistrer les données des capteurs placés dans une GrowBox (espace de cultur
 - separate by months
 - charts
 - use of Bootstrap
+
+# favico
+https://gauger.io/fonticon/ to create favicon.ico with FontAwesome
