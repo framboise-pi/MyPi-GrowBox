@@ -48,6 +48,9 @@ While we can't prevent the use of this code in products that are closed source o
 - separate .php pages/codes
 - add raspberry system ressources dashboard
 - button or movement detection, to mark watering
+- from file to MySQL and then
+- - dynamic possibilities like adding new sensor/new label
+- - 
 
 # favico
 https://gauger.io/fonticon/ to create favicon.ico with FontAwesome
