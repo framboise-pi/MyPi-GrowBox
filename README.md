@@ -20,7 +20,6 @@ Enregistrer les données des capteurs placés dans une GrowBox (espace de cultur
 - light sensor
 - UV sensor
 - hall effect sensor
-- camera for timelapse (will add in future)
 - PHP server (i'm using a raspberry zero for MyPi-GrowBox)
 
 ## Python
@@ -28,3 +27,10 @@ Enregistrer les données des capteurs placés dans une GrowBox (espace de cultur
 ## PHP
 - Bootstrap 4
 - Font Awesome
+- mypigrowbox.css
+
+# Future
+- camera for timelapse
+- separate by months
+- charts
+- use of Bootstrap
