@@ -37,8 +37,9 @@ While we can't prevent the use of this code in products that are closed source o
 # Future
 - camera for timelapse
 - separate by months
-- charts
-- use of Bootstrap
+- use of charts
+- use of Bootstrap/Dashboard
+- separate .php pages/codes
 
 # favico
 https://gauger.io/fonticon/ to create favicon.ico with FontAwesome
