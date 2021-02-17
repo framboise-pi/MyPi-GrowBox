@@ -29,6 +29,11 @@ Enregistrer les données des capteurs placés dans une GrowBox (espace de cultur
 - Font Awesome
 - mypigrowbox.css
 
+# License
+MyPi-GrowBox is published under the GNU Affero 3.0 because I believe in open development. It comes with both rights and obligations. Whether you use this GrowBox firmware as the driver for your open or closed-source product, you must keep it open, and you must provide your compatible source code to end users upon request. The most straightforward way to comply with the license is to make a fork of this project on Github, perform your modifications, and direct users to your modified fork.
+
+While we can't prevent the use of this code in products that are closed source or crippled by a patent, we would prefer that you choose another firmware or, better yet, make your own.
+
 # Future
 - camera for timelapse
 - separate by months
