@@ -26,6 +26,8 @@ Enregistrer les données des capteurs placés dans une GrowBox (espace de cultur
 - PHP server (i'm using a raspberry zero for MyPi-GrowBox)
 
 ## Python
+### dependances
+-git clone http://github.com/adafruit/Adafruit_Python_DHT.git
 
 ## PHP
 - Bootstrap 4
