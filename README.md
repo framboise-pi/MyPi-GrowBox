@@ -1,4 +1,6 @@
 # MyPi-GrowBox
+It does not any need internet connection. No online dependencies in .php.
+
 
 ## How / Comment
 [EN] Based on sensors, the main program witten in python, will write/append in a file all sensors datas with date and time.
