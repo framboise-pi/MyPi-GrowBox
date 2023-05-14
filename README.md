@@ -6,7 +6,7 @@ It does not any need internet connection. No online dependencies in .php.
 [EN] Based on sensors, the main program witten in python, will write/append in a file all sensors datas with date and time.
 index.php will read the file and explodes the values to fill a table with dates and datas.
 No automation involved and won't be added.
-<i>(For watering, there are nice products existing that dont need power to water plants.)</i>
+<i>(For watering, there are nice products existing that dont need power to water plants - ceramic is the best.)</i>
 I'm not working with hydroponic systems.
 
 [FR] En utilisant les données de différents capteurs, pour renseigner un fichier de données avec horodatage.
@@ -23,6 +23,10 @@ La partie PHP exploite ces données pour remplir un tablea de suivi.
 - UV sensor
 - hall effect sensor
 - PHP server (i'm using a raspberry zero for MyPi-GrowBox)
+<br>Le Pi zéro étant peu puissant, j'ai choisi de n'utiliser que du .php et des fichiers .txt pour traiter les données.
+<br>Il suffit d'un serveur http type apache.
+<br>Un programme en python écrit les données des capteurs, et prend des photos à intervalles réguliers.
+<br>La partie php permet l'exploitation des données, et l'enregistrement de notes horodatées pour un journal de culture.
 
 ## Python
 ### dependances
